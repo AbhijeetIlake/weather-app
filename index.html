@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WeatherEdge</title>
+    <link rel="stylesheet" href="./weather.css" />
+  </head>
+  <body>
+    <h1 id="heading">WeatherEdge</h1>
+    <div id="container">
+      <h2 id="city"></h2>
+      <div id="input-box">
+        <input type="text" id="cityInput" placeholder="Enter city name" />
+        <button onclick="fetchWeather()">Search</button>
+      </div>
+      <div id="result-box"></div>
+    </div>
+
+    <script src="./weatherFetcher.js"></script>
+  </body>
+</html>

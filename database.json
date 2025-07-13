@@ -1,0 +1,284 @@
+{
+  "cities": {
+    "mumbai": {
+      "name": "Mumbai",
+      "country": "IN",
+      "weather": {
+        "main": "Cloudy",
+        "temp": "32°C",
+        "humidity": "70%",
+        "wind_speed": "14 km/h"
+      }
+    },
+    "new delhi": {
+      "name": "New Delhi",
+      "country": "IN",
+      "weather": {
+        "main": "Mostly cloudy",
+        "temp": "31°C",
+        "humidity": "62%",
+        "wind_speed": "11 km/h"
+      }
+    },
+    "bengaluru": {
+      "name": "Bengaluru",
+      "country": "IN",
+      "weather": {
+        "main": "Mostly cloudy",
+        "temp": "28°C",
+        "humidity": "75%",
+        "wind_speed": "9 km/h"
+      }
+    },
+    "kolkata": {
+      "name": "Kolkata",
+      "country": "IN",
+      "weather": {
+        "main": "Mostly cloudy",
+        "temp": "32°C",
+        "humidity": "68%",
+        "wind_speed": "12 km/h"
+      }
+    },
+    "chennai": {
+      "name": "Chennai",
+      "country": "IN",
+      "weather": {
+        "main": "Mostly cloudy",
+        "temp": "37°C",
+        "humidity": "55%",
+        "wind_speed": "10 km/h"
+      }
+    },
+    "hyderabad": {
+      "name": "Hyderabad",
+      "country": "IN",
+      "weather": {
+        "main": "Cloudy",
+        "temp": "32°C",
+        "humidity": "60%",
+        "wind_speed": "13 km/h"
+      }
+    },
+    "ahmedabad": {
+      "name": "Ahmedabad",
+      "country": "IN",
+      "weather": {
+        "main": "Cloudy",
+        "temp": "33°C",
+        "humidity": "59%",
+        "wind_speed": "15 km/h"
+      }
+    },
+    "jaipur": {
+      "name": "Jaipur",
+      "country": "IN",
+      "weather": {
+        "main": "Clouds and sun",
+        "temp": "29°C",
+        "humidity": "67%",
+        "wind_speed": "9 km/h"
+      }
+    },
+    "lucknow": {
+      "name": "Lucknow",
+      "country": "IN",
+      "weather": {
+        "main": "Cloudy",
+        "temp": "33°C",
+        "humidity": "65%",
+        "wind_speed": "12 km/h"
+      }
+    },
+    "panaji": {
+      "name": "Panaji",
+      "country": "IN",
+      "weather": {
+        "main": "Partly sunny",
+        "temp": "30°C",
+        "humidity": "78%",
+        "wind_speed": "8 km/h"
+      }
+    },
+    "udaipur": {
+      "name": "Udaipur",
+      "country": "IN",
+      "weather": {
+        "main": "Cloudy",
+        "temp": "30°C",
+        "humidity": "66%",
+        "wind_speed": "10 km/h"
+      }
+    },
+    "agra": {
+      "name": "Agra",
+      "country": "IN",
+      "weather": {
+        "main": "Partly sunny",
+        "temp": "32°C",
+        "humidity": "63%",
+        "wind_speed": "11 km/h"
+      }
+    },
+    "srinagar": {
+      "name": "Srinagar",
+      "country": "IN",
+      "weather": {
+        "main": "Partly sunny",
+        "temp": "31°C",
+        "humidity": "58%",
+        "wind_speed": "10 km/h"
+      }
+    },
+    "shimla": {
+      "name": "Shimla",
+      "country": "IN",
+      "weather": {
+        "main": "Cloudy",
+        "temp": "25°C",
+        "humidity": "72%",
+        "wind_speed": "7 km/h"
+      }
+    },
+    "darjeeling": {
+      "name": "Darjeeling",
+      "country": "IN",
+      "weather": {
+        "main": "Mostly sunny",
+        "temp": "35°C",
+        "humidity": "61%",
+        "wind_speed": "9 km/h"
+      }
+    },
+    "patna": {
+      "name": "Patna",
+      "country": "IN",
+      "weather": {
+        "main": "Partly sunny",
+        "temp": "34°C",
+        "humidity": "64%",
+        "wind_speed": "10 km/h"
+      }
+    },
+    "trivandrum": {
+      "name": "Thiruvananthapuram",
+      "country": "IN",
+      "weather": {
+        "main": "Mostly cloudy",
+        "temp": "31°C",
+        "humidity": "79%",
+        "wind_speed": "8 km/h"
+      }
+    },
+    "bhubaneswar": {
+      "name": "Bhubaneswar",
+      "country": "IN",
+      "weather": {
+        "main": "Clouds and sun",
+        "temp": "32°C",
+        "humidity": "66%",
+        "wind_speed": "12 km/h"
+      }
+    },
+    "chandigarh": {
+      "name": "Chandigarh",
+      "country": "IN",
+      "weather": {
+        "main": "Clouds and sun",
+        "temp": "36°C",
+        "humidity": "56%",
+        "wind_speed": "14 km/h"
+      }
+    },
+    "ranchi": {
+      "name": "Ranchi",
+      "country": "IN",
+      "weather": {
+        "main": "Light fog",
+        "temp": "27°C",
+        "humidity": "76%",
+        "wind_speed": "6 km/h"
+      }
+    },
+    "guwahati": {
+      "name": "Guwahati",
+      "country": "IN",
+      "weather": {
+        "main": "Partly sunny",
+        "temp": "34°C",
+        "humidity": "70%",
+        "wind_speed": "11 km/h"
+      }
+    },
+    "varanasi": {
+      "name": "Varanasi",
+      "country": "IN",
+      "weather": {
+        "main": "Cloudy",
+        "temp": "30°C",
+        "humidity": "65%",
+        "wind_speed": "10 km/h"
+      }
+    },
+    "kochi": {
+      "name": "Kochi",
+      "country": "IN",
+      "weather": {
+        "main": "Cloudy",
+        "temp": "29°C",
+        "humidity": "80%",
+        "wind_speed": "9 km/h"
+      }
+    },
+    "dehra dun": {
+      "name": "Dehra Dun",
+      "country": "IN",
+      "weather": {
+        "main": "Partly sunny",
+        "temp": "33°C",
+        "humidity": "60%",
+        "wind_speed": "10 km/h"
+      }
+    },
+    "madurai": {
+      "name": "Madurai",
+      "country": "IN",
+      "weather": {
+        "main": "Partly sunny",
+        "temp": "38°C",
+        "humidity": "52%",
+        "wind_speed": "13 km/h"
+      }
+    },
+    "indore": {
+      "name": "Indore",
+      "country": "IN",
+      "weather": {
+        "main": "Cloudy",
+        "temp": "30°C",
+        "humidity": "68%",
+        "wind_speed": "10 km/h"
+      }
+    },
+    "gaya": {
+      "name": "Gaya",
+      "country": "IN",
+      "weather": {
+        "main": "Cloudy",
+        "temp": "31°C",
+        "humidity": "65%",
+        "wind_speed": "11 km/h"
+      }
+    },
+    "nagpur": {
+      "name": "Nagpur",
+      "country": "IN",
+      "weather": {
+        "main": "Cloudy",
+        "temp": "30°C",
+        "humidity": "71%",
+        "wind_speed": "13 km/h"
+      }
+    }
+  }
+}
